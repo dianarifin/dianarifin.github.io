@@ -1037,8 +1037,11 @@ aside {
     }
 
     .main_menu ol li {
-        padding-right: 12px;
-        padding-left: 12px;
+        padding-right: 24px;
+    }
+
+    .main_menu ol li.write_for_us {
+        padding-left: 24px;
     }
 
     /* SIDEBAR */
@@ -1105,7 +1108,7 @@ aside {
     }
 
     .footer_menu ul li a {
-        font-size: 9px;
+        font-size: 10px;
     }
 
 }

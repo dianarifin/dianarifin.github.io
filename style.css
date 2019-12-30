@@ -1079,4 +1079,14 @@ aside {
         display: none;
     }
 
+    /* SIDEBAR  */
+    .date .min_read {
+        font-size: 9px;
+    }
+
+    /* FOOTER  */
+    .main_footer_left h3 {
+        font-size: 20px;
+    }
+
 }

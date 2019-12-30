@@ -1,0 +1,21 @@
+
+/* KHUSUS UNTUK ICON  */
+.fa-star {
+    display: inline-block;
+    margin-left: 3px;
+    top: -2px;
+    font-size: 9px;
+    position: relative;
+    color:#838d96!important;
+}
+
+.drop_caps:first-child:first-letter{
+    font-family: 'Lora', sans-serif;
+    float: left;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 70px;
+    padding-top: 12px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
